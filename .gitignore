@@ -1,0 +1,7 @@
+*.egg-info
+.env
+node_modules
+*venv*/
+.vscode/
+*.pkl
+__pycache__/
